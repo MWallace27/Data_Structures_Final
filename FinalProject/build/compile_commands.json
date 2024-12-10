@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/Users/mmw/Desktop/data_structures/FinalProject/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/mmw/Desktop/data_structures/FinalProject/include -I/Users/mmw/Desktop/data_structures/FinalProject/src -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/Data_Structrue_Visualizer.dir/main.cpp.o -c /Users/mmw/Desktop/data_structures/FinalProject/main.cpp",
+  "file": "/Users/mmw/Desktop/data_structures/FinalProject/main.cpp",
+  "output": "CMakeFiles/Data_Structrue_Visualizer.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/mmw/Desktop/data_structures/FinalProject/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/mmw/Desktop/data_structures/FinalProject/include -I/Users/mmw/Desktop/data_structures/FinalProject/src -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/Data_Structrue_Visualizer.dir/src/AVL.cpp.o -c /Users/mmw/Desktop/data_structures/FinalProject/src/AVL.cpp",
+  "file": "/Users/mmw/Desktop/data_structures/FinalProject/src/AVL.cpp",
+  "output": "CMakeFiles/Data_Structrue_Visualizer.dir/src/AVL.cpp.o"
+},
+{
+  "directory": "/Users/mmw/Desktop/data_structures/FinalProject/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/mmw/Desktop/data_structures/FinalProject/include -I/Users/mmw/Desktop/data_structures/FinalProject/src -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/Data_Structrue_Visualizer.dir/src/BST.cpp.o -c /Users/mmw/Desktop/data_structures/FinalProject/src/BST.cpp",
+  "file": "/Users/mmw/Desktop/data_structures/FinalProject/src/BST.cpp",
+  "output": "CMakeFiles/Data_Structrue_Visualizer.dir/src/BST.cpp.o"
+},
+{
+  "directory": "/Users/mmw/Desktop/data_structures/FinalProject/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/mmw/Desktop/data_structures/FinalProject/include -I/Users/mmw/Desktop/data_structures/FinalProject/src -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/Data_Structrue_Visualizer.dir/src/BTree.cpp.o -c /Users/mmw/Desktop/data_structures/FinalProject/src/BTree.cpp",
+  "file": "/Users/mmw/Desktop/data_structures/FinalProject/src/BTree.cpp",
+  "output": "CMakeFiles/Data_Structrue_Visualizer.dir/src/BTree.cpp.o"
+},
+{
+  "directory": "/Users/mmw/Desktop/data_structures/FinalProject/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/mmw/Desktop/data_structures/FinalProject/include -I/Users/mmw/Desktop/data_structures/FinalProject/src -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/Data_Structrue_Visualizer.dir/src/GUIManager.cpp.o -c /Users/mmw/Desktop/data_structures/FinalProject/src/GUIManager.cpp",
+  "file": "/Users/mmw/Desktop/data_structures/FinalProject/src/GUIManager.cpp",
+  "output": "CMakeFiles/Data_Structrue_Visualizer.dir/src/GUIManager.cpp.o"
+},
+{
+  "directory": "/Users/mmw/Desktop/data_structures/FinalProject/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/mmw/Desktop/data_structures/FinalProject/include -I/Users/mmw/Desktop/data_structures/FinalProject/src -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/Data_Structrue_Visualizer.dir/src/Heap.cpp.o -c /Users/mmw/Desktop/data_structures/FinalProject/src/Heap.cpp",
+  "file": "/Users/mmw/Desktop/data_structures/FinalProject/src/Heap.cpp",
+  "output": "CMakeFiles/Data_Structrue_Visualizer.dir/src/Heap.cpp.o"
+},
+{
+  "directory": "/Users/mmw/Desktop/data_structures/FinalProject/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/mmw/Desktop/data_structures/FinalProject/include -I/Users/mmw/Desktop/data_structures/FinalProject/src -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/Data_Structrue_Visualizer.dir/src/PriorityQueue.cpp.o -c /Users/mmw/Desktop/data_structures/FinalProject/src/PriorityQueue.cpp",
+  "file": "/Users/mmw/Desktop/data_structures/FinalProject/src/PriorityQueue.cpp",
+  "output": "CMakeFiles/Data_Structrue_Visualizer.dir/src/PriorityQueue.cpp.o"
+},
+{
+  "directory": "/Users/mmw/Desktop/data_structures/FinalProject/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/mmw/Desktop/data_structures/FinalProject/include -I/Users/mmw/Desktop/data_structures/FinalProject/src -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/Data_Structrue_Visualizer.dir/src/Queue.cpp.o -c /Users/mmw/Desktop/data_structures/FinalProject/src/Queue.cpp",
+  "file": "/Users/mmw/Desktop/data_structures/FinalProject/src/Queue.cpp",
+  "output": "CMakeFiles/Data_Structrue_Visualizer.dir/src/Queue.cpp.o"
+},
+{
+  "directory": "/Users/mmw/Desktop/data_structures/FinalProject/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/mmw/Desktop/data_structures/FinalProject/include -I/Users/mmw/Desktop/data_structures/FinalProject/src -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/Data_Structrue_Visualizer.dir/src/RedBlack.cpp.o -c /Users/mmw/Desktop/data_structures/FinalProject/src/RedBlack.cpp",
+  "file": "/Users/mmw/Desktop/data_structures/FinalProject/src/RedBlack.cpp",
+  "output": "CMakeFiles/Data_Structrue_Visualizer.dir/src/RedBlack.cpp.o"
+},
+{
+  "directory": "/Users/mmw/Desktop/data_structures/FinalProject/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/mmw/Desktop/data_structures/FinalProject/include -I/Users/mmw/Desktop/data_structures/FinalProject/src -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/Data_Structrue_Visualizer.dir/src/Stack.cpp.o -c /Users/mmw/Desktop/data_structures/FinalProject/src/Stack.cpp",
+  "file": "/Users/mmw/Desktop/data_structures/FinalProject/src/Stack.cpp",
+  "output": "CMakeFiles/Data_Structrue_Visualizer.dir/src/Stack.cpp.o"
+}
+]
